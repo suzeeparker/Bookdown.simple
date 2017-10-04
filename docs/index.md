@@ -1,17 +1,20 @@
 --- 
-title: "A Minimal Bookdown Book"
-author: "Sean Kross"
-date: "2016-12-09"
-site: bookdown::bookdown_site
+title:  "Simple Book Template"
+author: "Sue Parker"
+date:   "2017-10-04"
 documentclass: book
-bibliography: [book.bib]
-biblio-style: apalike
-link-citations: yes
-github-repo: seankross/bookdown-start
-url: 'http\://seankross.com/bookdown-start/'
-description: "Everything you need (and nothing more) to start a bookdown book."
+site: bookdown::bookdown_site
+description: A simple template for bookdown.
+url: http\://sc123.sicomm.net/docs/mtc/
+
+# bibliography: book.bib
+# github-repo: seankross/bookdown-start
+# link-citations: yes
+# biblio-style: apalike
 ---
 
-# Preface {-}
+#{-}
 
 This is the very first part of the book.
+
+<!-- 1st # in this file must be the first markdown line. Can be #{-} but it gets a warning. --> 

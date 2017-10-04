@@ -1,14 +1,20 @@
-p.caption {
-  color: #777;
-  margin-top: 10px;
-}
-p code {
-  white-space: inherit;
-}
-pre {
-  word-break: normal;
-  word-wrap: normal;
-}
-pre code {
-  white-space: inherit;
-}
+p.caption {  margin-top       : 10px; color: #777; }
+p code     { white-space      : inherit; }
+pre code   { white-space      : inherit; }
+pre        { word-break       : normal;
+             word-wrap        : normal;  }
+H4         { margin-top       : 20px;
+             margin-left      : 10px;
+             margin-bottom    :  5px;
+             color            : blue;
+             }
+
+.title     { text-align       : center; margin : 0 !important; line-height: 30px; color: red; }      
+.author    { text-align       : center; margin : 0 !important; }       
+.date      { text-align       : center; margin : 0 !important; line-height: 20px; }       
+
+.Pagebreak { font-size        :  1px;
+             margin-top       : -12px;
+             page-break-after :  always;
+             }
+
