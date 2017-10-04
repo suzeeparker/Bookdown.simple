@@ -4,4 +4,4 @@ This is the second real sub-chapter for chapter 2.
 
 We have added some more information. 
 
-And some more.
+Just knitting this page causes "placesholders" to appear in the navigation outline. 
