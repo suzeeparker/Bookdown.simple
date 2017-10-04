@@ -5,7 +5,7 @@ bookdown::gitbook:
     toc:
       collapse: subsection
       before: |
-        <li><a href="./">A Minimal Bookdown Book</a></li>
+        <li><a href="./">A Simple Bookdown Book</a></li>
       after: |
         <li><a href="https://github.com/rstudio/bookdown" target="blank">Published with bookdown</a></li>
 
@@ -17,5 +17,3 @@ bookdown::pdf_book:
 
 bookdown::epub_book:
   stylesheet: style.css
-
-#   split_by: chapter, section, subsection  

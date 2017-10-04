@@ -1,5 +1,4 @@
-This is the absolute minimum you need to start a [bookdown](https://bookdown.org/home/about.html) book. You can find the
-preview of this book at http://seankross.com/bookdown-start/
+This is a bookdown template that has rmarkdown page for each item in a two level outline.  I've removed citations and bibliographies to make it as clean as possible.  But I have modified the custome style.css to change the formating of the book title, author and date lines.    
 
-All of the content of this repository is licensed 
-[CC0](https://creativecommons.org/publicdomain/zero/1.0/).
+It is a modification of the Sean Kross' book at http://seankross.com/bookdown-start/
+
