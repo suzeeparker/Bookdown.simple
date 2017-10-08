@@ -1,14 +1,15 @@
 --- 
-title:  "Simple Book Template"
+title:  "A Simple Bookdown Template"
 author: "Sue Parker"
-date:   "2017-10-04"
+date:   "2017-10-08"
 documentclass: book
 site: bookdown::bookdown_site
+github-repo: https\://github.com/suzeeparker/Bookdown.simple.git
 description: A simple template for bookdown.
-url: http\://sc123.sicomm.net/docs/mtc/
+url: https\://suzeeparker.github.io/Bookdown.simple
+
 
 # bibliography: book.bib
-# github-repo: seankross/bookdown-start
 # link-citations: yes
 # biblio-style: apalike
 ---
