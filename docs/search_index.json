@@ -4,7 +4,7 @@
 ["chapter-1-1.html", "1.1 Chapter 1.1", " 1.1 Chapter 1.1 This is the first real sub-chapter for chapter 1. "],
 ["chapter-2.html", "2 Chapter 2", " 2 Chapter 2 This is the second real chapter. "],
 ["chapter-2-1.html", "2.1 Chapter 2.1", " 2.1 Chapter 2.1 This is the first real sub-chapter for chapter 2. "],
-["chapter-2-2.html", "2.2 Chapter 2.2", " 2.2 Chapter 2.2 This is the second real sub-chapter for chapter 2. We have added some more information. Just knitting this page causes “placesholders” to appear in the navigation outline. "],
+["chapter-2-2.html", "2.2 Chapter 2.2", " 2.2 Chapter 2.2 This is the second real sub-chapter for chapter 2. We have added some more information. Just knitting this page causes “placesholders” to appear in the navigation outline. 2.2.1 Chapter 2.2.1 This is the 1st real sub-sub-chapter for sub-chapter 2.2. 2.2.2 Chapter 2.2.2 This is the 2nd real sub-sub-chapter for sub-chapter 2.2. "],
 ["chapter-2-3.html", "2.3 Chapter 2.3", " 2.3 Chapter 2.3 This is the third real sub-chapter for chapter 2. "],
 ["chapter-3.html", "3 Chapter 3", " 3 Chapter 3 This is the third real chapter. "]
 ]
